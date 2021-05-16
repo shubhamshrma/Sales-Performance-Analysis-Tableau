@@ -25,3 +25,5 @@ Analysis Tasks
 5. Add the year of sales to the view to identify trends and outliers. 
 6. Add a filter so that the user can select one, more than one, or all years. 
 7. Create a dashboard with this view.
+
+The dashboard is available on Tableau Public Server at https://public.tableau.com/profile/theshubhamsharma#!/vizhome/SalesPerfomance_16204595652720/SalesPerformancevsTarget
